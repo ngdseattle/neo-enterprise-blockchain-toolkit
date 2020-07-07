@@ -3,8 +3,8 @@
     "publisher": "ngd-seattle",
     "displayName": "Visual Token Designer Enterprise",
     "description": "",
-    "version": "0.0.1",
-    "icon": "neo-logo-256.png",
+    "version": "0.5.2-preview",
+    "icon": "token-logo-256.png",
     "galleryBanner": {
         "color": "#242424",
         "theme": "dark"
