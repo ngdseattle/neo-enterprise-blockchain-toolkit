@@ -3,13 +3,21 @@
     "publisher": "ngd-seattle",
     "displayName": "Visual Token Designer Enterprise",
     "description": "",
-    "version": "0.5.2-preview",
+    "version": "0.0.0",
     "icon": "token-logo-256.png",
     "galleryBanner": {
         "color": "#242424",
         "theme": "dark"
     },
     "author": "Neo Global Development Seattle",
+    "homepage": "https://github.com/neo-project/visual-token-designer-enterprise",
+    "bugs": {
+        "url": "https://github.com/neo-project/visual-token-designer-enterprise/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/neo-project/visual-token-designer-enterprise.git"
+    },
     "engines": {
         "vscode": "^1.46.0"
     },
