@@ -1,0 +1,29 @@
+{
+    "name": "visual-token-designer-enterprise",
+    "publisher": "ngd-seattle",
+    "displayName": "Visual Token Designer Enterprise",
+    "description": "",
+    "version": "0.0.1",
+    "icon": "neo-logo-256.png",
+    "galleryBanner": {
+        "color": "#242424",
+        "theme": "dark"
+    },
+    "author": "Neo Global Development Seattle",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "ngd-seattle.visual-token-designer",
+        "ngd-seattle.neo-blockchain-toolkit"
+    ],
+    "scripts": {
+        "package": "vsce package",
+    },
+    "devDependencies": {
+        "vsce": "^1.77.0"
+    }
+}
