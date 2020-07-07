@@ -24,6 +24,11 @@
     "categories": [
         "Extension Packs"
     ],
+    "keywords": [
+        "Neo",
+        "Token Taxonomy Framework",
+        "Blockchain"
+    ],
     "extensionPack": [
         "ngd-seattle.visual-token-designer",
         "ngd-seattle.neo-blockchain-toolkit"
