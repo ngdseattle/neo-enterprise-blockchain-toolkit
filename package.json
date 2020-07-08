@@ -2,7 +2,7 @@
     "name": "visual-token-designer-enterprise",
     "publisher": "ngd-seattle",
     "displayName": "Visual Token Designer Enterprise",
-    "description": "",
+    "description": "Model, Design, and Develop standard-based artifacts based on Neo Blockchain and the IWA Token Taxonomy Framework",
     "version": "0.0.0",
     "icon": "token-logo-256.png",
     "galleryBanner": {
