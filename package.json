@@ -4,7 +4,7 @@
     "displayName": "Visual Token Designer Enterprise",
     "description": "Model, Design, and Develop standard-based artifacts based on Neo Blockchain and the IWA Token Taxonomy Framework",
     "version": "0.0.0",
-    "icon": "token-logo-256.png",
+    "icon": "neo-logo-256.png",
     "galleryBanner": {
         "color": "#242424",
         "theme": "dark"
