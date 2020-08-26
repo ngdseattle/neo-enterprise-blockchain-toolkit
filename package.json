@@ -10,13 +10,13 @@
         "theme": "dark"
     },
     "author": "Neo Global Development Seattle",
-    "homepage": "https://github.com/neo-project/visual-token-designer-enterprise",
+    "homepage": "https://github.com/ngdseattle/visual-token-designer-enterprise",
     "bugs": {
-        "url": "https://github.com/neo-project/visual-token-designer-enterprise/issues"
+        "url": "https://github.com/ngdseattle/visual-token-designer-enterprise/issues"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/neo-project/visual-token-designer-enterprise.git"
+        "url": "https://github.com/ngdseattle/visual-token-designer-enterprise.git"
     },
     "engines": {
         "vscode": "^1.46.0"
@@ -38,7 +38,7 @@
     },
     "devDependencies": {
         "gulp": "4.0.2",
-        "nerdbank-gitversioning": "^3.1.91",
-        "vsce": "^1.77.0"
+        "nerdbank-gitversioning": "^3.2.31",
+        "vsce": "^1.79.3"
     }
 }
