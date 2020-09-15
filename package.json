@@ -10,13 +10,13 @@
         "theme": "dark"
     },
     "author": "Neo Global Development Seattle",
-    "homepage": "https://github.com/ngdseattle/visual-token-designer-enterprise",
+    "homepage": "https://github.com/ngdseattle/neo-enterprise-blockchain-toolkit",
     "bugs": {
-        "url": "https://github.com/ngdseattle/visual-token-designer-enterprise/issues"
+        "url": "https://github.com/ngdseattle/neo-enterprise-blockchain-toolkit/issues"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/ngdseattle/visual-token-designer-enterprise.git"
+        "url": "https://github.com/ngdseattle/neo-enterprise-blockchain-toolkit.git"
     },
     "engines": {
         "vscode": "^1.46.0"
