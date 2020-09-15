@@ -1,19 +1,56 @@
-# Visual Token Designer Enterprise
+# Neo Enterprise Blockchain Toolkit 
 
-Model, Design, and Develop standard-based artifacts based on the IWA Token Taxonomy Framework.
+End-to-end, integrated set of developer tools for teams of any size with enterprise-level quality and scale requirements.
 
-Visual Token Designer Enterprise has been developed to
+A comprehensive toolkit and capabilities spanning a best-in-class integrated development environment, advanced debugging and diagnostics, validation and compliance, and industry-leading standards support, to model, design, develop, test, and deploy enterprise-class blockchain solutions.
 
-* Deliver tooling meta-data using the TTF syntax that enables the generation of visual representations of classifications, and modelling tools to view and create token definitions mapped to the taxonomy.
-* Produce standard artifacts and control message descriptions mapped to the taxonomy that are implementation neutral and provide base components and controls that consortia, startups, platforms or regulators can use to work together.
-* Generate code and related run-time artifacts to instantiate the TTF standard artifacts and control message descriptions.
+## Key Capabilities
 
-## Token Taxonomy Framework
+### Neo Visual Token Designer
 
-The Token Taxonomy Framework bridges the gap between blockchain developers, line of business executives and legal/regulators allowing them to work together to model existing and define new business models and networks based on tokens. 
+- Best-in-class modeling and design experience to define, validate, test, and deploy digital assets
 
-The framework's goals include
 
-* Define a common set of concepts and terms that can be used by business, technical, and regulatory participants to speak the same language.
-* Produce token definitions that have clear and understood requirements that are implementation neutral for developers to follow and standards organizations to validate.
-* Establish a base Token Classification Hierarchy (TCH) driven by metadata that is simple to understand and navigate for anyone interested in learning and discovering Tokens and underlying implementations.
+### Neo Smart Contract Debugger
+
+- Fully integrated Smart Contract debugging experience inside of Visual Studio Code
+- Enhanced Time-Travel debugging support
+
+### Neo Express
+
+- Real-world PrivateNet - enabling complete end-to-end scenarios for Neo 2.x and
+  Neo 3.0, built on top of the Neo MainNet codebase
+- Manage Neo Express for multiple nodes and multiple developers from within Visual
+  Studio Code or using command-line utilities
+- Enhanced operations for developer scenarios. e.g. Snapshot/Rollback/FastForward/Replay etc.
+
+### Neo Visual DevTracker
+
+- Explore public and private Neo blockchains from within Visual Studio Code
+- Transfer assets, claim GAS, deploy and invoke smart contracts on public and
+  private Neo blockchains from withing Visual Studio Code
+- Create and manage Neo Express instances from within Visual Studio Code
+
+### NEON Smart Contract Compiler
+
+- Enhanced Compiler with metadata to map .NET source code to NeoVM byte code and
+  function variables/arguments information etc.
+- Create, Edit, Compile, Debug, Test, and Deploy Smart Contracts on both Neo 2.x
+  and Neo 3.0 from within Visual Studio Code
+
+### Smart Contract Templates in .NET languages
+
+- Friction-free templates and guidance for developer productivity
+- Real-World production quality Smart Contract Development in minutes
+
+### Neo-FX Library
+
+- Unified Programming Model for a consistent and highly productive developer
+  experience spanning remote, node and contract SDKs.
+- Neo-FX will provide a common set of fundamental types (such as large unsigned
+  integers for hash values and elliptic curves for cryptography), domain models
+  (such as blocks and transactions) and service abstractions (such as retrieving
+  a transaction or invoking a smart contract).
+- By using these common set of types across SDKs, developers will be able to move
+  their code between SDKs, ensuring they can run their code in the manner that
+  makes most sense for their blockchain application.
