@@ -1,7 +1,7 @@
 {
     "name": "visual-token-designer-enterprise",
     "publisher": "ngd-seattle",
-    "displayName": "Visual Token Designer Enterprise",
+    "displayName": "Neo Enterprise Blockchain Toolkik",
     "description": "Model, Design, and Develop standard-based artifacts based on Neo Blockchain and the IWA Token Taxonomy Framework",
     "version": "0.0.0",
     "icon": "neo-logo-256.png",
@@ -39,6 +39,6 @@
     "devDependencies": {
         "gulp": "4.0.2",
         "nerdbank-gitversioning": "^3.2.31",
-        "vsce": "^1.79.3"
+        "vsce": "^1.79.5"
     }
 }
