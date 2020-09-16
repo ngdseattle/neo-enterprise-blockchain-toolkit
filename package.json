@@ -1,7 +1,7 @@
 {
     "name": "visual-token-designer-enterprise",
     "publisher": "ngd-seattle",
-    "displayName": "Neo Enterprise Blockchain Toolkik",
+    "displayName": "Neo Enterprise Blockchain Toolkit",
     "description": "Model, Design, and Develop standard-based artifacts based on Neo Blockchain and the IWA Token Taxonomy Framework",
     "version": "0.0.0",
     "icon": "neo-logo-256.png",
